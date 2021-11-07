@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @singhmanish1212
+- 👋 Hi, I’m Manish Singh - Data Science Analyst @ Infosys Ltd.
 - 👀 I’m interested in artificial Intelligence
 - 🌱 I’m currently learning AWS cloud/Amazon Sagemaker
 - 💞️ I’m looking to collaborate on Machine learning Projects
